@@ -1,7 +1,5 @@
 # Face Recognition
 
-_You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)._
-
 Recognize and manipulate faces from Python or from the command line with
 the world's simplest face recognition library.
 
@@ -373,10 +371,6 @@ If you run into problems, please read the [Common Errors](https://github.com/age
 
 ## Thanks
 
-* Many, many thanks to [Davis King](https://github.com/davisking) ([@nulhom](https://twitter.com/nulhom))
-  for creating dlib and for providing the trained facial feature detection and face encoding models
-  used in this library. For more information on the ResNet that powers the face encodings, check out
-  his [blog post](http://blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html).
 * Thanks to everyone who works on all the awesome Python data science libraries like numpy, scipy, scikit-image,
   pillow, etc, etc that makes this kind of stuff so easy and fun in Python.
 * Thanks to [Cookiecutter](https://github.com/audreyr/cookiecutter) and the
